@@ -1,0 +1,3 @@
+this is the first test with git and vs-code
+it is still pretty hard
+but i will get the hang of it
